@@ -1,0 +1,13 @@
+Change Component DesignItemId : Designator=S1 Old DesignItemId=SW-SPDT New DesignItemId=SW-SPD
+Added Pin To Net: NetName=PWMA Pin=Q1-G
+Added Pin To Net: NetName=PWMB Pin=Q2-G
+Added Pin To Net: NetName=PWMC Pin=Q3-G
+Added Pin To Net: NetName=PWMD Pin=Q4-G
+Added Pin To Net: NetName=PWMA Pin=R23-1
+Added Pin To Net: NetName=PWMB Pin=R24-1
+Added Pin To Net: NetName=PWMD Pin=R25-1
+Added Pin To Net: NetName=PWMC Pin=R26-1
+Added Pin To Net: NetName=NetC24_1 Pin=U1-15
+Change Net Name : Old Net Name=NetC24_1 New Net Name=BAT_CHECK
+Added Room: Name=Sheet2
+Added Room: Name=Sheet3

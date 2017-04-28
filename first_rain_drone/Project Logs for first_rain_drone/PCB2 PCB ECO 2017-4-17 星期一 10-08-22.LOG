@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=VCC3.3 Pin=R8-1
+Removed Pin From Net: NetName=VCC3.3 Pin=U5-16
+Change Component DesignItemId : Designator=S1 Old DesignItemId=SW-SPDT New DesignItemId=SW-SPD
+Change Component Comment : Designator=R3 Old Comment=100k New Comment=100
+Added Pin To Net: NetName=PWMA Pin=Q1-G
+Added Pin To Net: NetName=PWMB Pin=Q2-G
+Added Pin To Net: NetName=PWMC Pin=Q3-G
+Added Pin To Net: NetName=PWMD Pin=Q4-G
+Added Pin To Net: NetName=PWMA Pin=R23-1
+Added Pin To Net: NetName=PWMB Pin=R24-1
+Added Pin To Net: NetName=PWMD Pin=R25-1
+Added Pin To Net: NetName=PWMC Pin=R26-1
+Added Pin To Net: NetName=NetC24_1 Pin=U1-15
+Added Pin To Net: NetName=PA11 Pin=U1-23
+Change Net Name : Old Net Name=NetC24_1 New Net Name=BAT_CHECK
+Added Pin To Net: NetName=NetR8_1 Pin=R8-1
+Added Pin To Net: NetName=NetR8_1 Pin=U5-16
+Added Net: Name=NetR8_1
+Added Room: Name=Sheet2
+Added Room: Name=Sheet3

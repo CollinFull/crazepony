@@ -1,0 +1,81 @@
+Net Status Report
+Filename     : C:\Users\Administrator\Desktop\first_rain_drone\PCB2.PcbDoc
+Date         : 2017/4/20 ÐÇÆÚËÄ
+Time         : 19:53:22
+Time Elapsed : 00:00:00
+
+Nets, Layer, Length
+    AUXDA, Signal Layers Only, 978.578mils
+    AUXDL, Signal Layers Only, 958.546mils
+    BAT, Signal Layers Only, 0mils
+    BAT_CHECK, Signal Layers Only, 1104.17mils
+    BOOT0, Signal Layers Only, 768.009mils
+    BT_EN, Signal Layers Only, 927.28mils
+    CE, Signal Layers Only, 889.734mils
+    CHG5V, Signal Layers Only, 1656.028mils
+    CSN, Signal Layers Only, 387.151mils
+    D+, Signal Layers Only, 449.487mils
+    D-, Signal Layers Only, 373.532mils
+    GND, Signal Layers Only, 5213.916mils
+    HM_INT, Signal Layers Only, 1209.96mils
+    IIC_SCL, Signal Layers Only, 1044.042mils
+    IIC_SDA, Signal Layers Only, 1087.211mils
+    MISO, Signal Layers Only, 382.038mils
+    MOSI, Signal Layers Only, 379.997mils
+    MP_INT, Signal Layers Only, 887.966mils
+    NRF IRQ, Signal Layers Only, 0mils
+    NRF_IRQ, Signal Layers Only, 0mils
+    NetC10_2, Signal Layers Only, 319.107mils
+    NetC12_1, Signal Layers Only, 153.56mils
+    NetC12_2, Signal Layers Only, 135.452mils
+    NetC14_2, Signal Layers Only, 520.674mils
+    NetC16_2, Signal Layers Only, 193.085mils
+    NetC25_2, Signal Layers Only, 132.606mils
+    NetC2_2, Signal Layers Only, 156.847mils
+    NetC30_2, Signal Layers Only, 118.274mils
+    NetC31_1, Signal Layers Only, 273.876mils
+    NetC31_2, Signal Layers Only, 258.849mils
+    NetC3_1, Signal Layers Only, 449.335mils
+    NetC8_2, Signal Layers Only, 356.231mils
+    NetC9_1, Signal Layers Only, 272.669mils
+    NetD1_1, Signal Layers Only, 332.765mils
+    NetD4_1, Signal Layers Only, 133.432mils
+    NetL2_2, Signal Layers Only, 272.587mils
+    NetL3_1, Signal Layers Only, 335.118mils
+    NetP3_2, Signal Layers Only, 308.118mils
+    NetP5_2, Signal Layers Only, 388.603mils
+    NetP6_2, Signal Layers Only, 360.846mils
+    NetP7_2, Signal Layers Only, 365.603mils
+    NetPWR_1, Signal Layers Only, 99.432mils
+    NetQ5_2, Signal Layers Only, 895.61mils
+    NetR3_1, Signal Layers Only, 716.672mils
+    NetR6_2, Signal Layers Only, 496.388mils
+    NetR7_2, Signal Layers Only, 140.6mils
+    NetR8_1, Signal Layers Only, 123.758mils
+    NetS1_3, Signal Layers Only, 0mils
+    NetU1_2, Signal Layers Only, 146.023mils
+    NetU1_3, Signal Layers Only, 150.238mils
+    Netchg_2, Signal Layers Only, 103.432mils
+    Netled1_1, Signal Layers Only, 506.475mils
+    Netled2_1, Signal Layers Only, 950.164mils
+    Netled3_1, Signal Layers Only, 1095.735mils
+    Netled4_1, Signal Layers Only, 820.317mils
+    PA11, Signal Layers Only, 1865.859mils
+    PA8, Signal Layers Only, 1013.985mils
+    PB1, Signal Layers Only, 1350.683mils
+    PB3, Signal Layers Only, 1050.418mils
+    PWMA, Signal Layers Only, 1685.672mils
+    PWMB, Signal Layers Only, 2079.209mils
+    PWMC, Signal Layers Only, 2168.396mils
+    PWMD, Signal Layers Only, 1902.304mils
+    RESET, Signal Layers Only, 1230.343mils
+    SCK, Signal Layers Only, 378.623mils
+    SWCLK, Signal Layers Only, 991.274mils
+    SWDIO, Signal Layers Only, 1119.415mils
+    USART1_RX, Signal Layers Only, 2466.201mils
+    USART1_TX, Signal Layers Only, 2191.132mils
+    VCC3.3, Signal Layers Only, 5919.369mils
+    VCC3.3BT, Signal Layers Only, 2189.103mils
+    VCC3.7, Signal Layers Only, 623.014mils
+    VCC5, Signal Layers Only, 1577.216mils
+count : 73

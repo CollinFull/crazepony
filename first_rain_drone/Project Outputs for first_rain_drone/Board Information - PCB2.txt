@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : C:\Users\Administrator\Desktop\first_rain_drone\PCB2.PcbDoc
+Date         : 2017/4/20 ÐÇÆÚËÄ
+Time         : 19:59:26
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 74.89%
+    Connections, 235
+    Connections routed, 176
+    Connections remaining, 59
+count : 4

@@ -1,0 +1,4 @@
+Change Component Description : Designator=S1 Old Description=SPDT Subminiature Toggle Switch, Right Angle Mounting, Vertical Actuatio New Description=SPDT Subminiature Toggle Switch, Right Angle Mounting, Vertical Actuation
+Added Pin To Net: NetName=NRF_IRQ Pin=U5-6
+Added Room: Name=Sheet2
+Added Room: Name=Sheet3

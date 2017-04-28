@@ -1,0 +1,10 @@
+Output: Report Single Pin Nets
+Type  : SinglePinNetReporter
+From  : Variant [[No Variations]] of Project [first_rain_drone.PrjPcb]
+   Generated File[PCB2.REP]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 19:53:51 On 2017/4/20 ÐÇÆÚËÄ

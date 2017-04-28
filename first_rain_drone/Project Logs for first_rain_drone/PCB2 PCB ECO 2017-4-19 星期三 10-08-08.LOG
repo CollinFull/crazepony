@@ -1,0 +1,10 @@
+Change Component Comment : Designator=U12 Old Comment=Component_1 New Comment=HMC5833
+Change Component Comment : Designator=U10 Old Comment=Component_1 New Comment=MS5611
+Change Component Comment : Designator=U5 Old Comment=Component_1 New Comment=NRF24L01
+Change Component Comment : Designator=P7 Old Comment=Motor New Comment=Motor4
+Change Component Comment : Designator=ANT Old Comment=U11 New Comment=ANT
+Change Component Designator: OldDesignator=ANT NewDesignator=U11
+Added Pin To Net: NetName=CHG5V Pin=chg-1
+Change Net Name : Old Net Name=NetANT_1 New Net Name=NetC12_1
+Added Room: Name=Sheet2
+Added Room: Name=Sheet3

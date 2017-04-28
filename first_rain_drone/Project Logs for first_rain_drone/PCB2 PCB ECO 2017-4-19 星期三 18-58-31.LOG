@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=BOOT0 Pin=Q5-1
+Added Pin To Net: NetName=CHG5V Pin=R18-1
+Added Pin To Net: NetName=BOOT0 Pin=R18-2
+Added Pin To Net: NetName=USART1_RX Pin=U8-2
+Added Pin To Net: NetName=USART1_TX Pin=U8-4
+Added Pin To Net: NetName=AUXDL Pin=U12-1
+Added Room: Name=Sheet2
+Added Room: Name=Sheet3

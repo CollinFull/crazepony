@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=U5 Old Footprint=QFN-ML20_L New Footprint=QFN-ML20_M
+Change Component Description : Designator=S1 Old Description=SPDT Subminiature Toggle Switch, Right Angle Mounting, Vertical Actuatio New Description=SPDT Subminiature Toggle Switch, Right Angle Mounting, Vertical Actuation
+Added Room: Name=Sheet2
+Added Room: Name=Sheet3
